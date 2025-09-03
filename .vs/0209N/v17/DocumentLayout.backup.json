@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|solutionrelative:0209n\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|C:\\Users\\lab1062\\source\\repos\\CA0209N\\0209n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|c:\\users\\lab1062\\source\\repos\\ca0209n\\0209n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|solutionrelative:0209n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,7 +43,8 @@
               "RelativeToolTip": "0209N\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T22:31:53.393Z"
+              "WhenOpened": "2025-09-02T22:31:53.393Z",
+              "EditorCaption": ""
             }
           ]
         }
