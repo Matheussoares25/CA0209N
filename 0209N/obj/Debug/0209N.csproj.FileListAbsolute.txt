@@ -1,0 +1,7 @@
+C:\Users\lab1068\Desktop\CA0209N\0209N\obj\Debug\0209N.csproj.AssemblyReference.cache
+C:\Users\lab1068\Desktop\CA0209N\0209N\obj\Debug\0209N.csproj.CoreCompileInputs.cache
+C:\Users\lab1068\Desktop\CA0209N\0209N\bin\Debug\0209N.exe.config
+C:\Users\lab1068\Desktop\CA0209N\0209N\bin\Debug\0209N.exe
+C:\Users\lab1068\Desktop\CA0209N\0209N\bin\Debug\0209N.pdb
+C:\Users\lab1068\Desktop\CA0209N\0209N\obj\Debug\0209N.exe
+C:\Users\lab1068\Desktop\CA0209N\0209N\obj\Debug\0209N.pdb

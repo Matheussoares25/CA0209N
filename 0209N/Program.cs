@@ -10,6 +10,7 @@ namespace _0209N
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
