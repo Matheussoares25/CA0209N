@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\lab1068\Desktop\CA0209N\0209N\obj\Debug\0209N.csproj.AssemblyReference.cache
 C:\Users\lab1068\Desktop\CA0209N\0209N\obj\Debug\0209N.csproj.CoreCompileInputs.cache
 C:\Users\lab1068\Desktop\CA0209N\0209N\bin\Debug\0209N.exe.config
@@ -5,3 +6,12 @@ C:\Users\lab1068\Desktop\CA0209N\0209N\bin\Debug\0209N.exe
 C:\Users\lab1068\Desktop\CA0209N\0209N\bin\Debug\0209N.pdb
 C:\Users\lab1068\Desktop\CA0209N\0209N\obj\Debug\0209N.exe
 C:\Users\lab1068\Desktop\CA0209N\0209N\obj\Debug\0209N.pdb
+=======
+C:\Users\lab1062\source\repos\CA0209N\0209N\bin\Debug\0209N.exe.config
+C:\Users\lab1062\source\repos\CA0209N\0209N\bin\Debug\0209N.exe
+C:\Users\lab1062\source\repos\CA0209N\0209N\bin\Debug\0209N.pdb
+C:\Users\lab1062\source\repos\CA0209N\0209N\obj\Debug\0209N.csproj.AssemblyReference.cache
+C:\Users\lab1062\source\repos\CA0209N\0209N\obj\Debug\0209N.csproj.CoreCompileInputs.cache
+C:\Users\lab1062\source\repos\CA0209N\0209N\obj\Debug\0209N.exe
+C:\Users\lab1062\source\repos\CA0209N\0209N\obj\Debug\0209N.pdb
+>>>>>>> f27c0d5eb9a2322f6ad07f7d42ea2c830f9d86a2
