@@ -10,6 +10,9 @@ namespace _0209N
     {
         static void Main(string[] args)
         {
+            Pessoa pessoa = new Pessoa();
+            pessoa.Cadastrar();
+            pessoa.Consultar();
 
         }
     }

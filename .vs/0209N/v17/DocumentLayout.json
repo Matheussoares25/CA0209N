@@ -1,24 +1,13 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\lab1068\\Desktop\\CA0209N\\",
+  "WorkspaceRootPath": "C:\\Users\\teodo\\OneDrive\\\u00C1rea de Trabalho\\CA0209N\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|c:\\users\\lab1068\\desktop\\ca0209n\\0209n\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|solutionrelative:0209n\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|c:\\users\\teodo\\onedrive\\\u00E1rea de trabalho\\ca0209n\\0209n\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|solutionrelative:0209n\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|C:\\Users\\lab1068\\Desktop\\CA0209N\\0209n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-  "WorkspaceRootPath": "C:\\Users\\lab1062\\source\\repos\\CA0209N\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|c:\\users\\lab1062\\source\\repos\\ca0209n\\0209n\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|solutionrelative:0209n\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|C:\\Users\\lab1062\\source\\repos\\CA0209N\\0209n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> f27c0d5eb9a2322f6ad07f7d42ea2c830f9d86a2
+      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|c:\\users\\teodo\\onedrive\\\u00E1rea de trabalho\\ca0209n\\0209n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|solutionrelative:0209n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -29,51 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-<<<<<<< HEAD
-              "Title": "Supervisor.cs",
-              "DocumentMoniker": "C:\\Users\\lab1068\\Desktop\\CA0209N\\0209N\\Supervisor.cs",
-              "RelativeDocumentMoniker": "0209N\\Supervisor.cs",
-              "ToolTip": "C:\\Users\\lab1068\\Desktop\\CA0209N\\0209N\\Supervisor.cs",
-              "RelativeToolTip": "0209N\\Supervisor.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T00:48:27.737Z",
-=======
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\lab1062\\source\\repos\\CA0209N\\0209N\\Funcionario.cs",
-              "RelativeDocumentMoniker": "0209N\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\lab1062\\source\\repos\\CA0209N\\0209N\\Funcionario.cs",
-              "RelativeToolTip": "0209N\\Funcionario.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T00:34:28.801Z",
->>>>>>> f27c0d5eb9a2322f6ad07f7d42ea2c830f9d86a2
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\lab1068\\Desktop\\CA0209N\\0209N\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\\u00C1rea de Trabalho\\CA0209N\\0209N\\Program.cs",
               "RelativeDocumentMoniker": "0209N\\Program.cs",
-              "ToolTip": "C:\\Users\\lab1068\\Desktop\\CA0209N\\0209N\\Program.cs",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\\u00C1rea de Trabalho\\CA0209N\\0209N\\Program.cs",
               "RelativeToolTip": "0209N\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-=======
-              "DocumentMoniker": "C:\\Users\\lab1062\\source\\repos\\CA0209N\\0209N\\Program.cs",
-              "RelativeDocumentMoniker": "0209N\\Program.cs",
-              "ToolTip": "C:\\Users\\lab1062\\source\\repos\\CA0209N\\0209N\\Program.cs",
-              "RelativeToolTip": "0209N\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
->>>>>>> f27c0d5eb9a2322f6ad07f7d42ea2c830f9d86a2
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T22:31:53.393Z"
+              "WhenOpened": "2025-09-05T00:29:13.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\\u00C1rea de Trabalho\\CA0209N\\0209N\\Pessoa.cs",
+              "RelativeDocumentMoniker": "0209N\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\\u00C1rea de Trabalho\\CA0209N\\0209N\\Pessoa.cs*",
+              "RelativeToolTip": "0209N\\Pessoa.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T00:02:54.455Z",
+              "EditorCaption": ""
             }
           ]
         }

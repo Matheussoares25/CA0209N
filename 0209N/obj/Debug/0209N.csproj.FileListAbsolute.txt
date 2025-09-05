@@ -15,3 +15,11 @@ C:\Users\lab1062\source\repos\CA0209N\0209N\obj\Debug\0209N.csproj.CoreCompileIn
 C:\Users\lab1062\source\repos\CA0209N\0209N\obj\Debug\0209N.exe
 C:\Users\lab1062\source\repos\CA0209N\0209N\obj\Debug\0209N.pdb
 >>>>>>> f27c0d5eb9a2322f6ad07f7d42ea2c830f9d86a2
+C:\Users\teodo\OneDrive\Área de Trabalho\CA0209N\0209N\bin\Debug\0209N.exe.config
+C:\Users\teodo\OneDrive\Área de Trabalho\CA0209N\0209N\bin\Debug\0209N.exe
+C:\Users\teodo\OneDrive\Área de Trabalho\CA0209N\0209N\bin\Debug\0209N.pdb
+C:\Users\teodo\OneDrive\Área de Trabalho\CA0209N\0209N\obj\Debug\0209N.csproj.AssemblyReference.cache
+C:\Users\teodo\OneDrive\Área de Trabalho\CA0209N\0209N\obj\Debug\0209N.exe.config
+C:\Users\teodo\OneDrive\Área de Trabalho\CA0209N\0209N\obj\Debug\0209N.csproj.CoreCompileInputs.cache
+C:\Users\teodo\OneDrive\Área de Trabalho\CA0209N\0209N\obj\Debug\0209N.exe
+C:\Users\teodo\OneDrive\Área de Trabalho\CA0209N\0209N\obj\Debug\0209N.pdb
