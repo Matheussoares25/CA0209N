@@ -23,3 +23,11 @@ C:\Users\teodo\OneDrive\Área de Trabalho\CA0209N\0209N\obj\Debug\0209N.exe.conf
 C:\Users\teodo\OneDrive\Área de Trabalho\CA0209N\0209N\obj\Debug\0209N.csproj.CoreCompileInputs.cache
 C:\Users\teodo\OneDrive\Área de Trabalho\CA0209N\0209N\obj\Debug\0209N.exe
 C:\Users\teodo\OneDrive\Área de Trabalho\CA0209N\0209N\obj\Debug\0209N.pdb
+C:\Users\thiag\Desktop\CA0209N\0209N\bin\Debug\0209N.exe.config
+C:\Users\thiag\Desktop\CA0209N\0209N\bin\Debug\0209N.exe
+C:\Users\thiag\Desktop\CA0209N\0209N\bin\Debug\0209N.pdb
+C:\Users\thiag\Desktop\CA0209N\0209N\obj\Debug\0209N.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\CA0209N\0209N\obj\Debug\0209N.exe.config
+C:\Users\thiag\Desktop\CA0209N\0209N\obj\Debug\0209N.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\CA0209N\0209N\obj\Debug\0209N.exe
+C:\Users\thiag\Desktop\CA0209N\0209N\obj\Debug\0209N.pdb
